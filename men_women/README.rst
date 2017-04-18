@@ -20,6 +20,8 @@ Next run these commands on your terminal.
     $ python r3.py
     
 Again open a new terminal at the project root and run:
+::
+
     $ rq worker
     *** Listening for work on default
     Got count_words_at_url('http://nvie.com') from default
