@@ -29,9 +29,13 @@ Again open a new terminal at the project root and run:
     *** Listening for work on default
 
 For rq directory project:
+::
+
     $rq worker
     
 For men_women directory project
+::
+
     $rq worker low
     $rq worker high
 
